@@ -1,0 +1,27 @@
+#div_a{
+    background-color:  #8bc700  ;
+    width: 700px;
+    height: 700px;
+}
+#div_a_filha{
+    background-color: #d9ff00;
+    width:50%;
+    height:85%;
+}
+#paragrafo{
+    color:#112206;
+    background-color: #04a140;
+    font-size: 40px;
+    font-family: monospace;
+    font-weight: 200;
+}
+#div_b{
+    width: 90%;
+    height: 35vh;
+    background-color: rgb(114, 37, 185);
+}
+#div_b_filha{
+    width: 80vw;
+    height: 95%;
+    background-color: rgb(13, 67, 204);
+}
